@@ -10882,3 +10882,1275 @@
 
 2024-12-10 14:55:14,783 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
 
+2024-12-11 10:47:39,179 - INFO - test_CheckOut_008 - 29 -  Testcase test_CheckOut_008 is started
+2024-12-11 10:47:39,179 - INFO - test_CheckOut_008 - 29 -  Testcase test_CheckOut_008 is started
+2024-12-11 10:47:39,179 - INFO - test_CheckOut_008 - 29 -  Testcase test_CheckOut_008 is started
+2024-12-11 10:47:39,179 - INFO - test_CheckOut_008 - 29 -  Testcase test_CheckOut_008 is started
+2024-12-11 10:47:39,179 - INFO - test_CheckOut_008 - 29 -  Testcase test_CheckOut_008 is started
+2024-12-11 10:47:39,179 - INFO - test_CheckOut_008 - 29 -  Testcase test_CheckOut_008 is started
+2024-12-11 10:47:39,180 - INFO - test_CheckOut_008 - 31 -  Opening Browser
+2024-12-11 10:47:39,180 - INFO - test_CheckOut_008 - 31 -  Opening Browser
+2024-12-11 10:47:39,180 - INFO - test_CheckOut_008 - 31 -  Opening Browser
+2024-12-11 10:47:39,180 - INFO - test_CheckOut_008 - 31 -  Opening Browser
+2024-12-11 10:47:39,180 - INFO - test_CheckOut_008 - 31 -  Opening Browser
+2024-12-11 10:47:39,180 - INFO - test_CheckOut_008 - 31 -  Opening Browser
+2024-12-11 10:47:41,436 - INFO - test_CheckOut_008 - 34 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:47:41,436 - INFO - test_CheckOut_008 - 34 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:47:41,436 - INFO - test_CheckOut_008 - 34 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:47:41,436 - INFO - test_CheckOut_008 - 34 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:47:41,436 - INFO - test_CheckOut_008 - 34 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:47:41,436 - INFO - test_CheckOut_008 - 34 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:47:41,438 - INFO - test_CheckOut_008 - 35 -  Entering email :Credencetest@test.com
+2024-12-11 10:47:41,438 - INFO - test_CheckOut_008 - 35 -  Entering email :Credencetest@test.com
+2024-12-11 10:47:41,438 - INFO - test_CheckOut_008 - 35 -  Entering email :Credencetest@test.com
+2024-12-11 10:47:41,438 - INFO - test_CheckOut_008 - 35 -  Entering email :Credencetest@test.com
+2024-12-11 10:47:41,438 - INFO - test_CheckOut_008 - 35 -  Entering email :Credencetest@test.com
+2024-12-11 10:47:41,438 - INFO - test_CheckOut_008 - 35 -  Entering email :Credencetest@test.com
+2024-12-11 10:47:41,690 - INFO - test_CheckOut_008 - 38 -  Entering password :Credence@123
+2024-12-11 10:47:41,690 - INFO - test_CheckOut_008 - 38 -  Entering password :Credence@123
+2024-12-11 10:47:41,690 - INFO - test_CheckOut_008 - 38 -  Entering password :Credence@123
+2024-12-11 10:47:41,690 - INFO - test_CheckOut_008 - 38 -  Entering password :Credence@123
+2024-12-11 10:47:41,690 - INFO - test_CheckOut_008 - 38 -  Entering password :Credence@123
+2024-12-11 10:47:41,690 - INFO - test_CheckOut_008 - 38 -  Entering password :Credence@123
+2024-12-11 10:47:41,788 - INFO - test_CheckOut_008 - 40 -  Clicking Login button
+2024-12-11 10:47:41,788 - INFO - test_CheckOut_008 - 40 -  Clicking Login button
+2024-12-11 10:47:41,788 - INFO - test_CheckOut_008 - 40 -  Clicking Login button
+2024-12-11 10:47:41,788 - INFO - test_CheckOut_008 - 40 -  Clicking Login button
+2024-12-11 10:47:41,788 - INFO - test_CheckOut_008 - 40 -  Clicking Login button
+2024-12-11 10:47:41,788 - INFO - test_CheckOut_008 - 40 -  Clicking Login button
+2024-12-11 10:47:46,569 - INFO - test_CheckOut_008 - 42 -  Click on Mac book pro
+2024-12-11 10:47:46,569 - INFO - test_CheckOut_008 - 42 -  Click on Mac book pro
+2024-12-11 10:47:46,569 - INFO - test_CheckOut_008 - 42 -  Click on Mac book pro
+2024-12-11 10:47:46,569 - INFO - test_CheckOut_008 - 42 -  Click on Mac book pro
+2024-12-11 10:47:46,569 - INFO - test_CheckOut_008 - 42 -  Click on Mac book pro
+2024-12-11 10:47:46,569 - INFO - test_CheckOut_008 - 42 -  Click on Mac book pro
+2024-12-11 10:47:46,570 - INFO - test_CheckOut_008 - 43 -  Click on add to cart
+2024-12-11 10:47:46,570 - INFO - test_CheckOut_008 - 43 -  Click on add to cart
+2024-12-11 10:47:46,570 - INFO - test_CheckOut_008 - 43 -  Click on add to cart
+2024-12-11 10:47:46,570 - INFO - test_CheckOut_008 - 43 -  Click on add to cart
+2024-12-11 10:47:46,570 - INFO - test_CheckOut_008 - 43 -  Click on add to cart
+2024-12-11 10:47:46,570 - INFO - test_CheckOut_008 - 43 -  Click on add to cart
+2024-12-11 10:47:46,570 - INFO - test_CheckOut_008 - 44 -  Click on proceed to checkout
+2024-12-11 10:47:46,570 - INFO - test_CheckOut_008 - 44 -  Click on proceed to checkout
+2024-12-11 10:47:46,570 - INFO - test_CheckOut_008 - 44 -  Click on proceed to checkout
+2024-12-11 10:47:46,570 - INFO - test_CheckOut_008 - 44 -  Click on proceed to checkout
+2024-12-11 10:47:46,570 - INFO - test_CheckOut_008 - 44 -  Click on proceed to checkout
+2024-12-11 10:47:46,570 - INFO - test_CheckOut_008 - 44 -  Click on proceed to checkout
+2024-12-11 10:47:52,270 - INFO - test_CheckOut_008 - 46 -   Enter First name
+2024-12-11 10:47:52,270 - INFO - test_CheckOut_008 - 46 -   Enter First name
+2024-12-11 10:47:52,270 - INFO - test_CheckOut_008 - 46 -   Enter First name
+2024-12-11 10:47:52,270 - INFO - test_CheckOut_008 - 46 -   Enter First name
+2024-12-11 10:47:52,270 - INFO - test_CheckOut_008 - 46 -   Enter First name
+2024-12-11 10:47:52,270 - INFO - test_CheckOut_008 - 46 -   Enter First name
+2024-12-11 10:47:52,400 - INFO - test_CheckOut_008 - 48 -   Enter Last name
+2024-12-11 10:47:52,400 - INFO - test_CheckOut_008 - 48 -   Enter Last name
+2024-12-11 10:47:52,400 - INFO - test_CheckOut_008 - 48 -   Enter Last name
+2024-12-11 10:47:52,400 - INFO - test_CheckOut_008 - 48 -   Enter Last name
+2024-12-11 10:47:52,400 - INFO - test_CheckOut_008 - 48 -   Enter Last name
+2024-12-11 10:47:52,400 - INFO - test_CheckOut_008 - 48 -   Enter Last name
+2024-12-11 10:47:52,515 - INFO - test_CheckOut_008 - 50 -   Enter Phone
+2024-12-11 10:47:52,515 - INFO - test_CheckOut_008 - 50 -   Enter Phone
+2024-12-11 10:47:52,515 - INFO - test_CheckOut_008 - 50 -   Enter Phone
+2024-12-11 10:47:52,515 - INFO - test_CheckOut_008 - 50 -   Enter Phone
+2024-12-11 10:47:52,515 - INFO - test_CheckOut_008 - 50 -   Enter Phone
+2024-12-11 10:47:52,515 - INFO - test_CheckOut_008 - 50 -   Enter Phone
+2024-12-11 10:47:52,683 - INFO - test_CheckOut_008 - 52 -   Enter Address
+2024-12-11 10:47:52,683 - INFO - test_CheckOut_008 - 52 -   Enter Address
+2024-12-11 10:47:52,683 - INFO - test_CheckOut_008 - 52 -   Enter Address
+2024-12-11 10:47:52,683 - INFO - test_CheckOut_008 - 52 -   Enter Address
+2024-12-11 10:47:52,683 - INFO - test_CheckOut_008 - 52 -   Enter Address
+2024-12-11 10:47:52,683 - INFO - test_CheckOut_008 - 52 -   Enter Address
+2024-12-11 10:47:52,896 - INFO - test_CheckOut_008 - 54 -   Enter Zipcode
+2024-12-11 10:47:52,896 - INFO - test_CheckOut_008 - 54 -   Enter Zipcode
+2024-12-11 10:47:52,896 - INFO - test_CheckOut_008 - 54 -   Enter Zipcode
+2024-12-11 10:47:52,896 - INFO - test_CheckOut_008 - 54 -   Enter Zipcode
+2024-12-11 10:47:52,896 - INFO - test_CheckOut_008 - 54 -   Enter Zipcode
+2024-12-11 10:47:52,896 - INFO - test_CheckOut_008 - 54 -   Enter Zipcode
+2024-12-11 10:47:52,986 - INFO - test_CheckOut_008 - 56 -   Select State
+2024-12-11 10:47:52,986 - INFO - test_CheckOut_008 - 56 -   Select State
+2024-12-11 10:47:52,986 - INFO - test_CheckOut_008 - 56 -   Select State
+2024-12-11 10:47:52,986 - INFO - test_CheckOut_008 - 56 -   Select State
+2024-12-11 10:47:52,986 - INFO - test_CheckOut_008 - 56 -   Select State
+2024-12-11 10:47:52,986 - INFO - test_CheckOut_008 - 56 -   Select State
+2024-12-11 10:47:53,098 - INFO - test_CheckOut_008 - 58 -   Enter Owner
+2024-12-11 10:47:53,098 - INFO - test_CheckOut_008 - 58 -   Enter Owner
+2024-12-11 10:47:53,098 - INFO - test_CheckOut_008 - 58 -   Enter Owner
+2024-12-11 10:47:53,098 - INFO - test_CheckOut_008 - 58 -   Enter Owner
+2024-12-11 10:47:53,098 - INFO - test_CheckOut_008 - 58 -   Enter Owner
+2024-12-11 10:47:53,098 - INFO - test_CheckOut_008 - 58 -   Enter Owner
+2024-12-11 10:47:53,222 - INFO - test_CheckOut_008 - 60 -   Enter CVV
+2024-12-11 10:47:53,222 - INFO - test_CheckOut_008 - 60 -   Enter CVV
+2024-12-11 10:47:53,222 - INFO - test_CheckOut_008 - 60 -   Enter CVV
+2024-12-11 10:47:53,222 - INFO - test_CheckOut_008 - 60 -   Enter CVV
+2024-12-11 10:47:53,222 - INFO - test_CheckOut_008 - 60 -   Enter CVV
+2024-12-11 10:47:53,222 - INFO - test_CheckOut_008 - 60 -   Enter CVV
+2024-12-11 10:47:53,377 - INFO - test_CheckOut_008 - 62 -   Enter Card Number
+2024-12-11 10:47:53,377 - INFO - test_CheckOut_008 - 62 -   Enter Card Number
+2024-12-11 10:47:53,377 - INFO - test_CheckOut_008 - 62 -   Enter Card Number
+2024-12-11 10:47:53,377 - INFO - test_CheckOut_008 - 62 -   Enter Card Number
+2024-12-11 10:47:53,377 - INFO - test_CheckOut_008 - 62 -   Enter Card Number
+2024-12-11 10:47:53,377 - INFO - test_CheckOut_008 - 62 -   Enter Card Number
+2024-12-11 10:47:53,876 - INFO - test_CheckOut_008 - 67 -   Select Year
+2024-12-11 10:47:53,876 - INFO - test_CheckOut_008 - 67 -   Select Year
+2024-12-11 10:47:53,876 - INFO - test_CheckOut_008 - 67 -   Select Year
+2024-12-11 10:47:53,876 - INFO - test_CheckOut_008 - 67 -   Select Year
+2024-12-11 10:47:53,876 - INFO - test_CheckOut_008 - 67 -   Select Year
+2024-12-11 10:47:53,876 - INFO - test_CheckOut_008 - 67 -   Select Year
+2024-12-11 10:47:54,027 - INFO - test_CheckOut_008 - 69 -   Select Month
+2024-12-11 10:47:54,027 - INFO - test_CheckOut_008 - 69 -   Select Month
+2024-12-11 10:47:54,027 - INFO - test_CheckOut_008 - 69 -   Select Month
+2024-12-11 10:47:54,027 - INFO - test_CheckOut_008 - 69 -   Select Month
+2024-12-11 10:47:54,027 - INFO - test_CheckOut_008 - 69 -   Select Month
+2024-12-11 10:47:54,027 - INFO - test_CheckOut_008 - 69 -   Select Month
+2024-12-11 10:47:54,164 - INFO - test_CheckOut_008 - 71 -  Click on checkout
+2024-12-11 10:47:54,164 - INFO - test_CheckOut_008 - 71 -  Click on checkout
+2024-12-11 10:47:54,164 - INFO - test_CheckOut_008 - 71 -  Click on checkout
+2024-12-11 10:47:54,164 - INFO - test_CheckOut_008 - 71 -  Click on checkout
+2024-12-11 10:47:54,164 - INFO - test_CheckOut_008 - 71 -  Click on checkout
+2024-12-11 10:47:54,164 - INFO - test_CheckOut_008 - 71 -  Click on checkout
+2024-12-11 10:47:55,773 - INFO - test_CheckOut_008 - 73 -  Verifying success message
+2024-12-11 10:47:55,773 - INFO - test_CheckOut_008 - 73 -  Verifying success message
+2024-12-11 10:47:55,773 - INFO - test_CheckOut_008 - 73 -  Verifying success message
+2024-12-11 10:47:55,773 - INFO - test_CheckOut_008 - 73 -  Verifying success message
+2024-12-11 10:47:55,773 - INFO - test_CheckOut_008 - 73 -  Verifying success message
+2024-12-11 10:47:55,773 - INFO - test_CheckOut_008 - 73 -  Verifying success message
+2024-12-11 10:48:07,752 - INFO - test_CheckOut_009 - 28 -  Testcase test_CheckOut_008 is started
+2024-12-11 10:48:07,752 - INFO - test_CheckOut_009 - 28 -  Testcase test_CheckOut_008 is started
+2024-12-11 10:48:07,752 - INFO - test_CheckOut_009 - 28 -  Testcase test_CheckOut_008 is started
+2024-12-11 10:48:07,752 - INFO - test_CheckOut_009 - 28 -  Testcase test_CheckOut_008 is started
+2024-12-11 10:48:07,752 - INFO - test_CheckOut_009 - 28 -  Testcase test_CheckOut_008 is started
+2024-12-11 10:48:07,752 - INFO - test_CheckOut_009 - 28 -  Testcase test_CheckOut_008 is started
+2024-12-11 10:48:07,753 - INFO - test_CheckOut_009 - 30 -  Opening Browser
+2024-12-11 10:48:07,753 - INFO - test_CheckOut_009 - 30 -  Opening Browser
+2024-12-11 10:48:07,753 - INFO - test_CheckOut_009 - 30 -  Opening Browser
+2024-12-11 10:48:07,753 - INFO - test_CheckOut_009 - 30 -  Opening Browser
+2024-12-11 10:48:07,753 - INFO - test_CheckOut_009 - 30 -  Opening Browser
+2024-12-11 10:48:07,753 - INFO - test_CheckOut_009 - 30 -  Opening Browser
+2024-12-11 10:48:07,753 - INFO - test_CheckOut_009 - 31 -  Click on Mac book pro
+2024-12-11 10:48:07,753 - INFO - test_CheckOut_009 - 31 -  Click on Mac book pro
+2024-12-11 10:48:07,753 - INFO - test_CheckOut_009 - 31 -  Click on Mac book pro
+2024-12-11 10:48:07,753 - INFO - test_CheckOut_009 - 31 -  Click on Mac book pro
+2024-12-11 10:48:07,753 - INFO - test_CheckOut_009 - 31 -  Click on Mac book pro
+2024-12-11 10:48:07,753 - INFO - test_CheckOut_009 - 31 -  Click on Mac book pro
+2024-12-11 10:48:07,753 - INFO - test_CheckOut_009 - 32 -  Click on add to cart
+2024-12-11 10:48:07,753 - INFO - test_CheckOut_009 - 32 -  Click on add to cart
+2024-12-11 10:48:07,753 - INFO - test_CheckOut_009 - 32 -  Click on add to cart
+2024-12-11 10:48:07,753 - INFO - test_CheckOut_009 - 32 -  Click on add to cart
+2024-12-11 10:48:07,753 - INFO - test_CheckOut_009 - 32 -  Click on add to cart
+2024-12-11 10:48:07,753 - INFO - test_CheckOut_009 - 32 -  Click on add to cart
+2024-12-11 10:48:07,753 - INFO - test_CheckOut_009 - 33 -  Click on proceed to checkout
+2024-12-11 10:48:07,753 - INFO - test_CheckOut_009 - 33 -  Click on proceed to checkout
+2024-12-11 10:48:07,753 - INFO - test_CheckOut_009 - 33 -  Click on proceed to checkout
+2024-12-11 10:48:07,753 - INFO - test_CheckOut_009 - 33 -  Click on proceed to checkout
+2024-12-11 10:48:07,753 - INFO - test_CheckOut_009 - 33 -  Click on proceed to checkout
+2024-12-11 10:48:07,753 - INFO - test_CheckOut_009 - 33 -  Click on proceed to checkout
+2024-12-11 10:48:10,215 - INFO - test_CheckOut_009 - 35 -   Enter First name
+2024-12-11 10:48:10,215 - INFO - test_CheckOut_009 - 35 -   Enter First name
+2024-12-11 10:48:10,215 - INFO - test_CheckOut_009 - 35 -   Enter First name
+2024-12-11 10:48:10,215 - INFO - test_CheckOut_009 - 35 -   Enter First name
+2024-12-11 10:48:10,215 - INFO - test_CheckOut_009 - 35 -   Enter First name
+2024-12-11 10:48:10,215 - INFO - test_CheckOut_009 - 35 -   Enter First name
+2024-12-11 10:48:10,397 - INFO - test_CheckOut_009 - 37 -   Enter Last name
+2024-12-11 10:48:10,397 - INFO - test_CheckOut_009 - 37 -   Enter Last name
+2024-12-11 10:48:10,397 - INFO - test_CheckOut_009 - 37 -   Enter Last name
+2024-12-11 10:48:10,397 - INFO - test_CheckOut_009 - 37 -   Enter Last name
+2024-12-11 10:48:10,397 - INFO - test_CheckOut_009 - 37 -   Enter Last name
+2024-12-11 10:48:10,397 - INFO - test_CheckOut_009 - 37 -   Enter Last name
+2024-12-11 10:48:10,542 - INFO - test_CheckOut_009 - 39 -   Enter Phone
+2024-12-11 10:48:10,542 - INFO - test_CheckOut_009 - 39 -   Enter Phone
+2024-12-11 10:48:10,542 - INFO - test_CheckOut_009 - 39 -   Enter Phone
+2024-12-11 10:48:10,542 - INFO - test_CheckOut_009 - 39 -   Enter Phone
+2024-12-11 10:48:10,542 - INFO - test_CheckOut_009 - 39 -   Enter Phone
+2024-12-11 10:48:10,542 - INFO - test_CheckOut_009 - 39 -   Enter Phone
+2024-12-11 10:48:10,690 - INFO - test_CheckOut_009 - 41 -   Enter Address
+2024-12-11 10:48:10,690 - INFO - test_CheckOut_009 - 41 -   Enter Address
+2024-12-11 10:48:10,690 - INFO - test_CheckOut_009 - 41 -   Enter Address
+2024-12-11 10:48:10,690 - INFO - test_CheckOut_009 - 41 -   Enter Address
+2024-12-11 10:48:10,690 - INFO - test_CheckOut_009 - 41 -   Enter Address
+2024-12-11 10:48:10,690 - INFO - test_CheckOut_009 - 41 -   Enter Address
+2024-12-11 10:48:10,917 - INFO - test_CheckOut_009 - 43 -   Enter Zipcode
+2024-12-11 10:48:10,917 - INFO - test_CheckOut_009 - 43 -   Enter Zipcode
+2024-12-11 10:48:10,917 - INFO - test_CheckOut_009 - 43 -   Enter Zipcode
+2024-12-11 10:48:10,917 - INFO - test_CheckOut_009 - 43 -   Enter Zipcode
+2024-12-11 10:48:10,917 - INFO - test_CheckOut_009 - 43 -   Enter Zipcode
+2024-12-11 10:48:10,917 - INFO - test_CheckOut_009 - 43 -   Enter Zipcode
+2024-12-11 10:48:11,046 - INFO - test_CheckOut_009 - 45 -   Select State
+2024-12-11 10:48:11,046 - INFO - test_CheckOut_009 - 45 -   Select State
+2024-12-11 10:48:11,046 - INFO - test_CheckOut_009 - 45 -   Select State
+2024-12-11 10:48:11,046 - INFO - test_CheckOut_009 - 45 -   Select State
+2024-12-11 10:48:11,046 - INFO - test_CheckOut_009 - 45 -   Select State
+2024-12-11 10:48:11,046 - INFO - test_CheckOut_009 - 45 -   Select State
+2024-12-11 10:48:11,206 - INFO - test_CheckOut_009 - 47 -   Enter Owner
+2024-12-11 10:48:11,206 - INFO - test_CheckOut_009 - 47 -   Enter Owner
+2024-12-11 10:48:11,206 - INFO - test_CheckOut_009 - 47 -   Enter Owner
+2024-12-11 10:48:11,206 - INFO - test_CheckOut_009 - 47 -   Enter Owner
+2024-12-11 10:48:11,206 - INFO - test_CheckOut_009 - 47 -   Enter Owner
+2024-12-11 10:48:11,206 - INFO - test_CheckOut_009 - 47 -   Enter Owner
+2024-12-11 10:48:11,352 - INFO - test_CheckOut_009 - 49 -   Enter CVV
+2024-12-11 10:48:11,352 - INFO - test_CheckOut_009 - 49 -   Enter CVV
+2024-12-11 10:48:11,352 - INFO - test_CheckOut_009 - 49 -   Enter CVV
+2024-12-11 10:48:11,352 - INFO - test_CheckOut_009 - 49 -   Enter CVV
+2024-12-11 10:48:11,352 - INFO - test_CheckOut_009 - 49 -   Enter CVV
+2024-12-11 10:48:11,352 - INFO - test_CheckOut_009 - 49 -   Enter CVV
+2024-12-11 10:48:11,474 - INFO - test_CheckOut_009 - 51 -   Enter Card Number
+2024-12-11 10:48:11,474 - INFO - test_CheckOut_009 - 51 -   Enter Card Number
+2024-12-11 10:48:11,474 - INFO - test_CheckOut_009 - 51 -   Enter Card Number
+2024-12-11 10:48:11,474 - INFO - test_CheckOut_009 - 51 -   Enter Card Number
+2024-12-11 10:48:11,474 - INFO - test_CheckOut_009 - 51 -   Enter Card Number
+2024-12-11 10:48:11,474 - INFO - test_CheckOut_009 - 51 -   Enter Card Number
+2024-12-11 10:48:11,790 - INFO - test_CheckOut_009 - 56 -   Select Year
+2024-12-11 10:48:11,790 - INFO - test_CheckOut_009 - 56 -   Select Year
+2024-12-11 10:48:11,790 - INFO - test_CheckOut_009 - 56 -   Select Year
+2024-12-11 10:48:11,790 - INFO - test_CheckOut_009 - 56 -   Select Year
+2024-12-11 10:48:11,790 - INFO - test_CheckOut_009 - 56 -   Select Year
+2024-12-11 10:48:11,790 - INFO - test_CheckOut_009 - 56 -   Select Year
+2024-12-11 10:48:11,894 - INFO - test_CheckOut_009 - 58 -   Select Month
+2024-12-11 10:48:11,894 - INFO - test_CheckOut_009 - 58 -   Select Month
+2024-12-11 10:48:11,894 - INFO - test_CheckOut_009 - 58 -   Select Month
+2024-12-11 10:48:11,894 - INFO - test_CheckOut_009 - 58 -   Select Month
+2024-12-11 10:48:11,894 - INFO - test_CheckOut_009 - 58 -   Select Month
+2024-12-11 10:48:11,894 - INFO - test_CheckOut_009 - 58 -   Select Month
+2024-12-11 10:48:11,996 - INFO - test_CheckOut_009 - 60 -  Click on checkout
+2024-12-11 10:48:11,996 - INFO - test_CheckOut_009 - 60 -  Click on checkout
+2024-12-11 10:48:11,996 - INFO - test_CheckOut_009 - 60 -  Click on checkout
+2024-12-11 10:48:11,996 - INFO - test_CheckOut_009 - 60 -  Click on checkout
+2024-12-11 10:48:11,996 - INFO - test_CheckOut_009 - 60 -  Click on checkout
+2024-12-11 10:48:11,996 - INFO - test_CheckOut_009 - 60 -  Click on checkout
+2024-12-11 10:48:13,371 - INFO - test_CheckOut_009 - 62 -  Verifying success message
+2024-12-11 10:48:13,371 - INFO - test_CheckOut_009 - 62 -  Verifying success message
+2024-12-11 10:48:13,371 - INFO - test_CheckOut_009 - 62 -  Verifying success message
+2024-12-11 10:48:13,371 - INFO - test_CheckOut_009 - 62 -  Verifying success message
+2024-12-11 10:48:13,371 - INFO - test_CheckOut_009 - 62 -  Verifying success message
+2024-12-11 10:48:13,371 - INFO - test_CheckOut_009 - 62 -  Verifying success message
+2024-12-11 10:48:18,003 - INFO - test_verify_CredKart_Url_001 - 35 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-11 10:48:18,003 - INFO - test_verify_CredKart_Url_001 - 35 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-11 10:48:18,003 - INFO - test_verify_CredKart_Url_001 - 35 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-11 10:48:18,003 - INFO - test_verify_CredKart_Url_001 - 35 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-11 10:48:18,003 - INFO - test_verify_CredKart_Url_001 - 35 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-11 10:48:18,003 - INFO - test_verify_CredKart_Url_001 - 35 -  Testcase test_verify_CredKart_Url_001 is started
+2024-12-11 10:48:26,592 - INFO - test_verify_CredKart_Url_001 - 37 -  Opening Browser
+2024-12-11 10:48:26,592 - INFO - test_verify_CredKart_Url_001 - 37 -  Opening Browser
+2024-12-11 10:48:26,592 - INFO - test_verify_CredKart_Url_001 - 37 -  Opening Browser
+2024-12-11 10:48:26,592 - INFO - test_verify_CredKart_Url_001 - 37 -  Opening Browser
+2024-12-11 10:48:26,592 - INFO - test_verify_CredKart_Url_001 - 37 -  Opening Browser
+2024-12-11 10:48:26,592 - INFO - test_verify_CredKart_Url_001 - 37 -  Opening Browser
+2024-12-11 10:48:26,593 - INFO - test_verify_CredKart_Url_001 - 38 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-11 10:48:26,593 - INFO - test_verify_CredKart_Url_001 - 38 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-11 10:48:26,593 - INFO - test_verify_CredKart_Url_001 - 38 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-11 10:48:26,593 - INFO - test_verify_CredKart_Url_001 - 38 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-11 10:48:26,593 - INFO - test_verify_CredKart_Url_001 - 38 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-11 10:48:26,593 - INFO - test_verify_CredKart_Url_001 - 38 -  Going to CredKart URL ->https://automation.credence.in
+2024-12-11 10:48:26,595 - INFO - test_verify_CredKart_Url_001 - 39 -  Checking Page Title
+2024-12-11 10:48:26,595 - INFO - test_verify_CredKart_Url_001 - 39 -  Checking Page Title
+2024-12-11 10:48:26,595 - INFO - test_verify_CredKart_Url_001 - 39 -  Checking Page Title
+2024-12-11 10:48:26,595 - INFO - test_verify_CredKart_Url_001 - 39 -  Checking Page Title
+2024-12-11 10:48:26,595 - INFO - test_verify_CredKart_Url_001 - 39 -  Checking Page Title
+2024-12-11 10:48:26,595 - INFO - test_verify_CredKart_Url_001 - 39 -  Checking Page Title
+2024-12-11 10:48:26,679 - INFO - test_verify_CredKart_Url_001 - 44 -  Page Title:'CredKart' is  matches with expected title
+2024-12-11 10:48:26,679 - INFO - test_verify_CredKart_Url_001 - 44 -  Page Title:'CredKart' is  matches with expected title
+2024-12-11 10:48:26,679 - INFO - test_verify_CredKart_Url_001 - 44 -  Page Title:'CredKart' is  matches with expected title
+2024-12-11 10:48:26,679 - INFO - test_verify_CredKart_Url_001 - 44 -  Page Title:'CredKart' is  matches with expected title
+2024-12-11 10:48:26,679 - INFO - test_verify_CredKart_Url_001 - 44 -  Page Title:'CredKart' is  matches with expected title
+2024-12-11 10:48:26,679 - INFO - test_verify_CredKart_Url_001 - 44 -  Page Title:'CredKart' is  matches with expected title
+2024-12-11 10:48:26,682 - INFO - test_verify_CredKart_Url_001 - 46 -  Taking Screenshot
+2024-12-11 10:48:26,682 - INFO - test_verify_CredKart_Url_001 - 46 -  Taking Screenshot
+2024-12-11 10:48:26,682 - INFO - test_verify_CredKart_Url_001 - 46 -  Taking Screenshot
+2024-12-11 10:48:26,682 - INFO - test_verify_CredKart_Url_001 - 46 -  Taking Screenshot
+2024-12-11 10:48:26,682 - INFO - test_verify_CredKart_Url_001 - 46 -  Taking Screenshot
+2024-12-11 10:48:26,682 - INFO - test_verify_CredKart_Url_001 - 46 -  Taking Screenshot
+2024-12-11 10:48:26,999 - INFO - test_verify_CredKart_Url_001 - 49 -  Testcase test_verify_CredKart_Url_001 is passed
+2024-12-11 10:48:26,999 - INFO - test_verify_CredKart_Url_001 - 49 -  Testcase test_verify_CredKart_Url_001 is passed
+2024-12-11 10:48:26,999 - INFO - test_verify_CredKart_Url_001 - 49 -  Testcase test_verify_CredKart_Url_001 is passed
+2024-12-11 10:48:26,999 - INFO - test_verify_CredKart_Url_001 - 49 -  Testcase test_verify_CredKart_Url_001 is passed
+2024-12-11 10:48:26,999 - INFO - test_verify_CredKart_Url_001 - 49 -  Testcase test_verify_CredKart_Url_001 is passed
+2024-12-11 10:48:26,999 - INFO - test_verify_CredKart_Url_001 - 49 -  Testcase test_verify_CredKart_Url_001 is passed
+2024-12-11 10:48:27,000 - INFO - test_verify_CredKart_Url_001 - 50 -  Testcase test_verify_CredKart_Url_001 is completed
+
+2024-12-11 10:48:27,000 - INFO - test_verify_CredKart_Url_001 - 50 -  Testcase test_verify_CredKart_Url_001 is completed
+
+2024-12-11 10:48:27,000 - INFO - test_verify_CredKart_Url_001 - 50 -  Testcase test_verify_CredKart_Url_001 is completed
+
+2024-12-11 10:48:27,000 - INFO - test_verify_CredKart_Url_001 - 50 -  Testcase test_verify_CredKart_Url_001 is completed
+
+2024-12-11 10:48:27,000 - INFO - test_verify_CredKart_Url_001 - 50 -  Testcase test_verify_CredKart_Url_001 is completed
+
+2024-12-11 10:48:27,000 - INFO - test_verify_CredKart_Url_001 - 50 -  Testcase test_verify_CredKart_Url_001 is completed
+
+2024-12-11 10:48:27,005 - INFO - test_CredKart_User_Login_002 - 67 -  Testcase test_CredKart_User_Login_002 is started
+2024-12-11 10:48:27,005 - INFO - test_CredKart_User_Login_002 - 67 -  Testcase test_CredKart_User_Login_002 is started
+2024-12-11 10:48:27,005 - INFO - test_CredKart_User_Login_002 - 67 -  Testcase test_CredKart_User_Login_002 is started
+2024-12-11 10:48:27,005 - INFO - test_CredKart_User_Login_002 - 67 -  Testcase test_CredKart_User_Login_002 is started
+2024-12-11 10:48:27,005 - INFO - test_CredKart_User_Login_002 - 67 -  Testcase test_CredKart_User_Login_002 is started
+2024-12-11 10:48:27,005 - INFO - test_CredKart_User_Login_002 - 67 -  Testcase test_CredKart_User_Login_002 is started
+2024-12-11 10:48:27,008 - INFO - test_CredKart_User_Login_002 - 69 -  Opening Browser
+2024-12-11 10:48:27,008 - INFO - test_CredKart_User_Login_002 - 69 -  Opening Browser
+2024-12-11 10:48:27,008 - INFO - test_CredKart_User_Login_002 - 69 -  Opening Browser
+2024-12-11 10:48:27,008 - INFO - test_CredKart_User_Login_002 - 69 -  Opening Browser
+2024-12-11 10:48:27,008 - INFO - test_CredKart_User_Login_002 - 69 -  Opening Browser
+2024-12-11 10:48:27,008 - INFO - test_CredKart_User_Login_002 - 69 -  Opening Browser
+2024-12-11 10:48:27,639 - INFO - test_CredKart_User_Login_002 - 73 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:48:27,639 - INFO - test_CredKart_User_Login_002 - 73 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:48:27,639 - INFO - test_CredKart_User_Login_002 - 73 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:48:27,639 - INFO - test_CredKart_User_Login_002 - 73 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:48:27,639 - INFO - test_CredKart_User_Login_002 - 73 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:48:27,639 - INFO - test_CredKart_User_Login_002 - 73 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:48:27,641 - INFO - test_CredKart_User_Login_002 - 74 -  Entering email :Credencetest@test.com
+2024-12-11 10:48:27,641 - INFO - test_CredKart_User_Login_002 - 74 -  Entering email :Credencetest@test.com
+2024-12-11 10:48:27,641 - INFO - test_CredKart_User_Login_002 - 74 -  Entering email :Credencetest@test.com
+2024-12-11 10:48:27,641 - INFO - test_CredKart_User_Login_002 - 74 -  Entering email :Credencetest@test.com
+2024-12-11 10:48:27,641 - INFO - test_CredKart_User_Login_002 - 74 -  Entering email :Credencetest@test.com
+2024-12-11 10:48:27,641 - INFO - test_CredKart_User_Login_002 - 74 -  Entering email :Credencetest@test.com
+2024-12-11 10:48:27,929 - INFO - test_CredKart_User_Login_002 - 77 -  Entering password :Credence@123
+2024-12-11 10:48:27,929 - INFO - test_CredKart_User_Login_002 - 77 -  Entering password :Credence@123
+2024-12-11 10:48:27,929 - INFO - test_CredKart_User_Login_002 - 77 -  Entering password :Credence@123
+2024-12-11 10:48:27,929 - INFO - test_CredKart_User_Login_002 - 77 -  Entering password :Credence@123
+2024-12-11 10:48:27,929 - INFO - test_CredKart_User_Login_002 - 77 -  Entering password :Credence@123
+2024-12-11 10:48:27,929 - INFO - test_CredKart_User_Login_002 - 77 -  Entering password :Credence@123
+2024-12-11 10:48:28,311 - INFO - test_CredKart_User_Login_002 - 79 -  Clicking Login button
+2024-12-11 10:48:28,311 - INFO - test_CredKart_User_Login_002 - 79 -  Clicking Login button
+2024-12-11 10:48:28,311 - INFO - test_CredKart_User_Login_002 - 79 -  Clicking Login button
+2024-12-11 10:48:28,311 - INFO - test_CredKart_User_Login_002 - 79 -  Clicking Login button
+2024-12-11 10:48:28,311 - INFO - test_CredKart_User_Login_002 - 79 -  Clicking Login button
+2024-12-11 10:48:28,311 - INFO - test_CredKart_User_Login_002 - 79 -  Clicking Login button
+2024-12-11 10:48:30,503 - INFO - test_CredKart_User_Login_002 - 81 -  Verify User is logged in or not
+2024-12-11 10:48:30,503 - INFO - test_CredKart_User_Login_002 - 81 -  Verify User is logged in or not
+2024-12-11 10:48:30,503 - INFO - test_CredKart_User_Login_002 - 81 -  Verify User is logged in or not
+2024-12-11 10:48:30,503 - INFO - test_CredKart_User_Login_002 - 81 -  Verify User is logged in or not
+2024-12-11 10:48:30,503 - INFO - test_CredKart_User_Login_002 - 81 -  Verify User is logged in or not
+2024-12-11 10:48:30,503 - INFO - test_CredKart_User_Login_002 - 81 -  Verify User is logged in or not
+2024-12-11 10:48:33,109 - INFO - test_CredKart_User_Login_002 - 84 -  Taking Screenshot for Pass
+2024-12-11 10:48:33,109 - INFO - test_CredKart_User_Login_002 - 84 -  Taking Screenshot for Pass
+2024-12-11 10:48:33,109 - INFO - test_CredKart_User_Login_002 - 84 -  Taking Screenshot for Pass
+2024-12-11 10:48:33,109 - INFO - test_CredKart_User_Login_002 - 84 -  Taking Screenshot for Pass
+2024-12-11 10:48:33,109 - INFO - test_CredKart_User_Login_002 - 84 -  Taking Screenshot for Pass
+2024-12-11 10:48:33,109 - INFO - test_CredKart_User_Login_002 - 84 -  Taking Screenshot for Pass
+2024-12-11 10:48:33,407 - INFO - test_CredKart_User_Login_002 - 86 -  Testcase test_CredKart_User_Login_002 is Pass
+2024-12-11 10:48:33,407 - INFO - test_CredKart_User_Login_002 - 86 -  Testcase test_CredKart_User_Login_002 is Pass
+2024-12-11 10:48:33,407 - INFO - test_CredKart_User_Login_002 - 86 -  Testcase test_CredKart_User_Login_002 is Pass
+2024-12-11 10:48:33,407 - INFO - test_CredKart_User_Login_002 - 86 -  Testcase test_CredKart_User_Login_002 is Pass
+2024-12-11 10:48:33,407 - INFO - test_CredKart_User_Login_002 - 86 -  Testcase test_CredKart_User_Login_002 is Pass
+2024-12-11 10:48:33,407 - INFO - test_CredKart_User_Login_002 - 86 -  Testcase test_CredKart_User_Login_002 is Pass
+2024-12-11 10:48:33,407 - INFO - test_CredKart_User_Login_002 - 87 -  Testcase test_CredKart_User_Login_002 is Completed
+
+2024-12-11 10:48:33,407 - INFO - test_CredKart_User_Login_002 - 87 -  Testcase test_CredKart_User_Login_002 is Completed
+
+2024-12-11 10:48:33,407 - INFO - test_CredKart_User_Login_002 - 87 -  Testcase test_CredKart_User_Login_002 is Completed
+
+2024-12-11 10:48:33,407 - INFO - test_CredKart_User_Login_002 - 87 -  Testcase test_CredKart_User_Login_002 is Completed
+
+2024-12-11 10:48:33,407 - INFO - test_CredKart_User_Login_002 - 87 -  Testcase test_CredKart_User_Login_002 is Completed
+
+2024-12-11 10:48:33,407 - INFO - test_CredKart_User_Login_002 - 87 -  Testcase test_CredKart_User_Login_002 is Completed
+
+2024-12-11 10:48:33,418 - INFO - test_CredKart_User_Registration_003 - 108 -  Define the logs for this testcase :  Your Task
+2024-12-11 10:48:33,418 - INFO - test_CredKart_User_Registration_003 - 108 -  Define the logs for this testcase :  Your Task
+2024-12-11 10:48:33,418 - INFO - test_CredKart_User_Registration_003 - 108 -  Define the logs for this testcase :  Your Task
+2024-12-11 10:48:33,418 - INFO - test_CredKart_User_Registration_003 - 108 -  Define the logs for this testcase :  Your Task
+2024-12-11 10:48:33,418 - INFO - test_CredKart_User_Registration_003 - 108 -  Define the logs for this testcase :  Your Task
+2024-12-11 10:48:33,418 - INFO - test_CredKart_User_Registration_003 - 108 -  Define the logs for this testcase :  Your Task
+2024-12-11 10:48:46,353 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 29 -  Testcase test_CredKart_User_Login_Excel_DDT_004 is started
+2024-12-11 10:48:46,353 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 29 -  Testcase test_CredKart_User_Login_Excel_DDT_004 is started
+2024-12-11 10:48:46,353 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 29 -  Testcase test_CredKart_User_Login_Excel_DDT_004 is started
+2024-12-11 10:48:46,353 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 29 -  Testcase test_CredKart_User_Login_Excel_DDT_004 is started
+2024-12-11 10:48:46,353 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 29 -  Testcase test_CredKart_User_Login_Excel_DDT_004 is started
+2024-12-11 10:48:46,353 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 29 -  Testcase test_CredKart_User_Login_Excel_DDT_004 is started
+2024-12-11 10:48:46,353 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 31 -  Opening Browser
+2024-12-11 10:48:46,353 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 31 -  Opening Browser
+2024-12-11 10:48:46,353 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 31 -  Opening Browser
+2024-12-11 10:48:46,353 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 31 -  Opening Browser
+2024-12-11 10:48:46,353 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 31 -  Opening Browser
+2024-12-11 10:48:46,353 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 31 -  Opening Browser
+2024-12-11 10:48:49,262 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 34 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:48:49,262 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 34 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:48:49,262 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 34 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:48:49,262 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 34 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:48:49,262 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 34 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:48:49,262 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 34 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:48:49,263 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 36 -  Reading data from Excel
+2024-12-11 10:48:49,263 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 36 -  Reading data from Excel
+2024-12-11 10:48:49,263 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 36 -  Reading data from Excel
+2024-12-11 10:48:49,263 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 36 -  Reading data from Excel
+2024-12-11 10:48:49,263 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 36 -  Reading data from Excel
+2024-12-11 10:48:49,263 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 36 -  Reading data from Excel
+2024-12-11 10:48:49,263 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 37 -  Reading the number of rows from Excel
+2024-12-11 10:48:49,263 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 37 -  Reading the number of rows from Excel
+2024-12-11 10:48:49,263 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 37 -  Reading the number of rows from Excel
+2024-12-11 10:48:49,263 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 37 -  Reading the number of rows from Excel
+2024-12-11 10:48:49,263 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 37 -  Reading the number of rows from Excel
+2024-12-11 10:48:49,263 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 37 -  Reading the number of rows from Excel
+2024-12-11 10:48:49,291 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Number of rows in Excel is :  7
+2024-12-11 10:48:49,291 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Number of rows in Excel is :  7
+2024-12-11 10:48:49,291 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Number of rows in Excel is :  7
+2024-12-11 10:48:49,291 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Number of rows in Excel is :  7
+2024-12-11 10:48:49,291 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Number of rows in Excel is :  7
+2024-12-11 10:48:49,291 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Number of rows in Excel is :  7
+2024-12-11 10:48:49,292 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 2 in excel
+2024-12-11 10:48:49,292 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 2 in excel
+2024-12-11 10:48:49,292 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 2 in excel
+2024-12-11 10:48:49,292 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 2 in excel
+2024-12-11 10:48:49,292 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 2 in excel
+2024-12-11 10:48:49,292 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 2 in excel
+2024-12-11 10:48:49,313 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com
+2024-12-11 10:48:49,313 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com
+2024-12-11 10:48:49,313 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com
+2024-12-11 10:48:49,313 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com
+2024-12-11 10:48:49,313 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com
+2024-12-11 10:48:49,313 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com
+2024-12-11 10:48:49,494 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@123
+2024-12-11 10:48:49,494 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@123
+2024-12-11 10:48:49,494 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@123
+2024-12-11 10:48:49,494 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@123
+2024-12-11 10:48:49,494 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@123
+2024-12-11 10:48:49,494 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@123
+2024-12-11 10:48:49,650 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:48:49,650 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:48:49,650 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:48:49,650 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:48:49,650 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:48:49,650 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:48:53,377 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:48:53,377 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:48:53,377 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:48:53,377 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:48:53,377 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:48:53,377 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:48:55,090 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 57 -  User 'Credencetest@test.com' is  logged in and actual result is : login_pass
+2024-12-11 10:48:55,090 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 57 -  User 'Credencetest@test.com' is  logged in and actual result is : login_pass
+2024-12-11 10:48:55,090 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 57 -  User 'Credencetest@test.com' is  logged in and actual result is : login_pass
+2024-12-11 10:48:55,090 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 57 -  User 'Credencetest@test.com' is  logged in and actual result is : login_pass
+2024-12-11 10:48:55,090 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 57 -  User 'Credencetest@test.com' is  logged in and actual result is : login_pass
+2024-12-11 10:48:55,090 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 57 -  User 'Credencetest@test.com' is  logged in and actual result is : login_pass
+2024-12-11 10:48:55,091 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 58 -  Taking Screenshot for Pass
+2024-12-11 10:48:55,091 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 58 -  Taking Screenshot for Pass
+2024-12-11 10:48:55,091 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 58 -  Taking Screenshot for Pass
+2024-12-11 10:48:55,091 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 58 -  Taking Screenshot for Pass
+2024-12-11 10:48:55,091 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 58 -  Taking Screenshot for Pass
+2024-12-11 10:48:55,091 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 58 -  Taking Screenshot for Pass
+2024-12-11 10:48:55,942 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 3 in excel
+2024-12-11 10:48:55,942 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 3 in excel
+2024-12-11 10:48:55,942 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 3 in excel
+2024-12-11 10:48:55,942 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 3 in excel
+2024-12-11 10:48:55,942 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 3 in excel
+2024-12-11 10:48:55,942 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 3 in excel
+2024-12-11 10:48:55,975 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com1
+2024-12-11 10:48:55,975 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com1
+2024-12-11 10:48:55,975 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com1
+2024-12-11 10:48:55,975 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com1
+2024-12-11 10:48:55,975 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com1
+2024-12-11 10:48:55,975 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com1
+2024-12-11 10:48:56,118 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@123
+2024-12-11 10:48:56,118 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@123
+2024-12-11 10:48:56,118 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@123
+2024-12-11 10:48:56,118 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@123
+2024-12-11 10:48:56,118 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@123
+2024-12-11 10:48:56,118 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@123
+2024-12-11 10:48:56,248 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:48:56,248 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:48:56,248 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:48:56,248 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:48:56,248 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:48:56,248 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:48:57,842 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:48:57,842 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:48:57,842 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:48:57,842 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:48:57,842 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:48:57,842 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:48:57,864 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 62 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:48:57,864 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 62 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:48:57,864 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 62 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:48:57,864 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 62 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:48:57,864 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 62 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:48:57,864 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 62 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:48:57,864 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 63 -  Taking Screenshot for Fail
+2024-12-11 10:48:57,864 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 63 -  Taking Screenshot for Fail
+2024-12-11 10:48:57,864 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 63 -  Taking Screenshot for Fail
+2024-12-11 10:48:57,864 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 63 -  Taking Screenshot for Fail
+2024-12-11 10:48:57,864 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 63 -  Taking Screenshot for Fail
+2024-12-11 10:48:57,864 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 63 -  Taking Screenshot for Fail
+2024-12-11 10:48:58,733 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 4 in excel
+2024-12-11 10:48:58,733 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 4 in excel
+2024-12-11 10:48:58,733 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 4 in excel
+2024-12-11 10:48:58,733 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 4 in excel
+2024-12-11 10:48:58,733 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 4 in excel
+2024-12-11 10:48:58,733 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 4 in excel
+2024-12-11 10:48:58,758 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com
+2024-12-11 10:48:58,758 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com
+2024-12-11 10:48:58,758 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com
+2024-12-11 10:48:58,758 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com
+2024-12-11 10:48:58,758 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com
+2024-12-11 10:48:58,758 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com
+2024-12-11 10:48:58,874 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@1231
+2024-12-11 10:48:58,874 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@1231
+2024-12-11 10:48:58,874 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@1231
+2024-12-11 10:48:58,874 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@1231
+2024-12-11 10:48:58,874 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@1231
+2024-12-11 10:48:58,874 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@1231
+2024-12-11 10:48:59,070 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:48:59,070 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:48:59,070 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:48:59,070 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:48:59,070 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:48:59,070 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:49:00,700 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:49:00,700 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:49:00,700 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:49:00,700 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:49:00,700 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:49:00,700 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:49:00,737 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 62 -  User 'Credencetest@test.com' is not logged in and actual result is : login_fail
+2024-12-11 10:49:00,737 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 62 -  User 'Credencetest@test.com' is not logged in and actual result is : login_fail
+2024-12-11 10:49:00,737 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 62 -  User 'Credencetest@test.com' is not logged in and actual result is : login_fail
+2024-12-11 10:49:00,737 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 62 -  User 'Credencetest@test.com' is not logged in and actual result is : login_fail
+2024-12-11 10:49:00,737 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 62 -  User 'Credencetest@test.com' is not logged in and actual result is : login_fail
+2024-12-11 10:49:00,737 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 62 -  User 'Credencetest@test.com' is not logged in and actual result is : login_fail
+2024-12-11 10:49:00,738 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 63 -  Taking Screenshot for Fail
+2024-12-11 10:49:00,738 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 63 -  Taking Screenshot for Fail
+2024-12-11 10:49:00,738 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 63 -  Taking Screenshot for Fail
+2024-12-11 10:49:00,738 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 63 -  Taking Screenshot for Fail
+2024-12-11 10:49:00,738 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 63 -  Taking Screenshot for Fail
+2024-12-11 10:49:00,738 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 63 -  Taking Screenshot for Fail
+2024-12-11 10:49:01,651 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 5 in excel
+2024-12-11 10:49:01,651 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 5 in excel
+2024-12-11 10:49:01,651 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 5 in excel
+2024-12-11 10:49:01,651 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 5 in excel
+2024-12-11 10:49:01,651 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 5 in excel
+2024-12-11 10:49:01,651 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 5 in excel
+2024-12-11 10:49:01,740 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:01,740 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:01,740 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:01,740 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:01,740 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:01,740 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:02,454 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@1231
+2024-12-11 10:49:02,454 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@1231
+2024-12-11 10:49:02,454 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@1231
+2024-12-11 10:49:02,454 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@1231
+2024-12-11 10:49:02,454 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@1231
+2024-12-11 10:49:02,454 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@1231
+2024-12-11 10:49:02,767 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:49:02,767 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:49:02,767 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:49:02,767 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:49:02,767 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:49:02,767 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:49:04,019 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:49:04,019 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:49:04,019 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:49:04,019 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:49:04,019 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:49:04,019 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:49:04,045 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 62 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:04,045 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 62 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:04,045 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 62 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:04,045 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 62 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:04,045 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 62 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:04,045 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 62 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:04,045 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 63 -  Taking Screenshot for Fail
+2024-12-11 10:49:04,045 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 63 -  Taking Screenshot for Fail
+2024-12-11 10:49:04,045 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 63 -  Taking Screenshot for Fail
+2024-12-11 10:49:04,045 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 63 -  Taking Screenshot for Fail
+2024-12-11 10:49:04,045 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 63 -  Taking Screenshot for Fail
+2024-12-11 10:49:04,045 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 63 -  Taking Screenshot for Fail
+2024-12-11 10:49:04,824 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 6 in excel
+2024-12-11 10:49:04,824 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 6 in excel
+2024-12-11 10:49:04,824 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 6 in excel
+2024-12-11 10:49:04,824 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 6 in excel
+2024-12-11 10:49:04,824 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 6 in excel
+2024-12-11 10:49:04,824 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 6 in excel
+2024-12-11 10:49:04,857 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:04,857 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:04,857 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:04,857 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:04,857 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:04,857 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:05,038 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@123
+2024-12-11 10:49:05,038 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@123
+2024-12-11 10:49:05,038 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@123
+2024-12-11 10:49:05,038 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@123
+2024-12-11 10:49:05,038 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@123
+2024-12-11 10:49:05,038 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@123
+2024-12-11 10:49:05,199 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:49:05,199 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:49:05,199 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:49:05,199 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:49:05,199 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:49:05,199 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:49:07,303 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:49:07,303 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:49:07,303 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:49:07,303 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:49:07,303 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:49:07,303 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:49:09,082 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 57 -  User 'Credencetest@test.com' is  logged in and actual result is : login_pass
+2024-12-11 10:49:09,082 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 57 -  User 'Credencetest@test.com' is  logged in and actual result is : login_pass
+2024-12-11 10:49:09,082 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 57 -  User 'Credencetest@test.com' is  logged in and actual result is : login_pass
+2024-12-11 10:49:09,082 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 57 -  User 'Credencetest@test.com' is  logged in and actual result is : login_pass
+2024-12-11 10:49:09,082 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 57 -  User 'Credencetest@test.com' is  logged in and actual result is : login_pass
+2024-12-11 10:49:09,082 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 57 -  User 'Credencetest@test.com' is  logged in and actual result is : login_pass
+2024-12-11 10:49:09,083 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 58 -  Taking Screenshot for Pass
+2024-12-11 10:49:09,083 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 58 -  Taking Screenshot for Pass
+2024-12-11 10:49:09,083 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 58 -  Taking Screenshot for Pass
+2024-12-11 10:49:09,083 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 58 -  Taking Screenshot for Pass
+2024-12-11 10:49:09,083 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 58 -  Taking Screenshot for Pass
+2024-12-11 10:49:09,083 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 58 -  Taking Screenshot for Pass
+2024-12-11 10:49:09,778 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 7 in excel
+2024-12-11 10:49:09,778 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 7 in excel
+2024-12-11 10:49:09,778 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 7 in excel
+2024-12-11 10:49:09,778 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 7 in excel
+2024-12-11 10:49:09,778 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 7 in excel
+2024-12-11 10:49:09,778 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 43 -  Reading data from row number : 7 in excel
+2024-12-11 10:49:09,800 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:09,800 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:09,800 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:09,800 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:09,800 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:09,800 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 48 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:09,909 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@1231
+2024-12-11 10:49:09,909 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@1231
+2024-12-11 10:49:09,909 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@1231
+2024-12-11 10:49:09,909 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@1231
+2024-12-11 10:49:09,909 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@1231
+2024-12-11 10:49:09,909 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 50 -  Entering password :Credence@1231
+2024-12-11 10:49:10,045 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:49:10,045 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:49:10,045 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:49:10,045 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:49:10,045 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:49:10,045 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 52 -  Clicking Login button
+2024-12-11 10:49:11,096 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:49:11,096 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:49:11,096 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:49:11,096 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:49:11,096 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:49:11,096 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  Verify User is logged in or not
+2024-12-11 10:49:11,111 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 62 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:11,111 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 62 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:11,111 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 62 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:11,111 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 62 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:11,111 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 62 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:11,111 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 62 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:11,111 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 63 -  Taking Screenshot for Fail
+2024-12-11 10:49:11,111 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 63 -  Taking Screenshot for Fail
+2024-12-11 10:49:11,111 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 63 -  Taking Screenshot for Fail
+2024-12-11 10:49:11,111 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 63 -  Taking Screenshot for Fail
+2024-12-11 10:49:11,111 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 63 -  Taking Screenshot for Fail
+2024-12-11 10:49:11,111 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 63 -  Taking Screenshot for Fail
+2024-12-11 10:49:16,431 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 26 -  Testcase test_CredKart_User_Login_Excel_DDT_004 is started
+2024-12-11 10:49:16,431 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 26 -  Testcase test_CredKart_User_Login_Excel_DDT_004 is started
+2024-12-11 10:49:16,431 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 26 -  Testcase test_CredKart_User_Login_Excel_DDT_004 is started
+2024-12-11 10:49:16,431 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 26 -  Testcase test_CredKart_User_Login_Excel_DDT_004 is started
+2024-12-11 10:49:16,431 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 26 -  Testcase test_CredKart_User_Login_Excel_DDT_004 is started
+2024-12-11 10:49:16,431 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 26 -  Testcase test_CredKart_User_Login_Excel_DDT_004 is started
+2024-12-11 10:49:16,432 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 28 -  Opening Browser
+2024-12-11 10:49:16,432 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 28 -  Opening Browser
+2024-12-11 10:49:16,432 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 28 -  Opening Browser
+2024-12-11 10:49:16,432 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 28 -  Opening Browser
+2024-12-11 10:49:16,432 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 28 -  Opening Browser
+2024-12-11 10:49:16,432 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 28 -  Opening Browser
+2024-12-11 10:49:17,601 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 31 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:17,601 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 31 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:17,601 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 31 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:17,601 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 31 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:17,601 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 31 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:17,601 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 31 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:17,601 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 33 -  Reading data from Excel
+2024-12-11 10:49:17,601 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 33 -  Reading data from Excel
+2024-12-11 10:49:17,601 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 33 -  Reading data from Excel
+2024-12-11 10:49:17,601 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 33 -  Reading data from Excel
+2024-12-11 10:49:17,601 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 33 -  Reading data from Excel
+2024-12-11 10:49:17,601 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 33 -  Reading data from Excel
+2024-12-11 10:49:17,601 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 34 -  Reading the number of rows from Excel
+2024-12-11 10:49:17,601 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 34 -  Reading the number of rows from Excel
+2024-12-11 10:49:17,601 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 34 -  Reading the number of rows from Excel
+2024-12-11 10:49:17,601 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 34 -  Reading the number of rows from Excel
+2024-12-11 10:49:17,601 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 34 -  Reading the number of rows from Excel
+2024-12-11 10:49:17,601 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 34 -  Reading the number of rows from Excel
+2024-12-11 10:49:17,620 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 37 -  Number of rows in Excel is :  7
+2024-12-11 10:49:17,620 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 37 -  Number of rows in Excel is :  7
+2024-12-11 10:49:17,620 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 37 -  Number of rows in Excel is :  7
+2024-12-11 10:49:17,620 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 37 -  Number of rows in Excel is :  7
+2024-12-11 10:49:17,620 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 37 -  Number of rows in Excel is :  7
+2024-12-11 10:49:17,620 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 37 -  Number of rows in Excel is :  7
+2024-12-11 10:49:17,621 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 2 in excel
+2024-12-11 10:49:17,621 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 2 in excel
+2024-12-11 10:49:17,621 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 2 in excel
+2024-12-11 10:49:17,621 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 2 in excel
+2024-12-11 10:49:17,621 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 2 in excel
+2024-12-11 10:49:17,621 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 2 in excel
+2024-12-11 10:49:17,645 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:17,645 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:17,645 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:17,645 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:17,645 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:17,645 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:18,225 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@123
+2024-12-11 10:49:18,225 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@123
+2024-12-11 10:49:18,225 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@123
+2024-12-11 10:49:18,225 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@123
+2024-12-11 10:49:18,225 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@123
+2024-12-11 10:49:18,225 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@123
+2024-12-11 10:49:18,434 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:18,434 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:18,434 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:18,434 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:18,434 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:18,434 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:21,383 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:21,383 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:21,383 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:21,383 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:21,383 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:21,383 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:22,862 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  User 'Credencetest@test.com' is  logged in and actual result is : login_pass
+2024-12-11 10:49:22,862 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  User 'Credencetest@test.com' is  logged in and actual result is : login_pass
+2024-12-11 10:49:22,862 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  User 'Credencetest@test.com' is  logged in and actual result is : login_pass
+2024-12-11 10:49:22,862 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  User 'Credencetest@test.com' is  logged in and actual result is : login_pass
+2024-12-11 10:49:22,862 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  User 'Credencetest@test.com' is  logged in and actual result is : login_pass
+2024-12-11 10:49:22,862 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  User 'Credencetest@test.com' is  logged in and actual result is : login_pass
+2024-12-11 10:49:22,863 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 55 -  Taking Screenshot for Pass
+2024-12-11 10:49:22,863 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 55 -  Taking Screenshot for Pass
+2024-12-11 10:49:22,863 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 55 -  Taking Screenshot for Pass
+2024-12-11 10:49:22,863 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 55 -  Taking Screenshot for Pass
+2024-12-11 10:49:22,863 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 55 -  Taking Screenshot for Pass
+2024-12-11 10:49:22,863 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 55 -  Taking Screenshot for Pass
+2024-12-11 10:49:23,636 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 3 in excel
+2024-12-11 10:49:23,636 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 3 in excel
+2024-12-11 10:49:23,636 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 3 in excel
+2024-12-11 10:49:23,636 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 3 in excel
+2024-12-11 10:49:23,636 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 3 in excel
+2024-12-11 10:49:23,636 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 3 in excel
+2024-12-11 10:49:23,672 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:23,672 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:23,672 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:23,672 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:23,672 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:23,672 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:23,795 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@123
+2024-12-11 10:49:23,795 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@123
+2024-12-11 10:49:23,795 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@123
+2024-12-11 10:49:23,795 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@123
+2024-12-11 10:49:23,795 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@123
+2024-12-11 10:49:23,795 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@123
+2024-12-11 10:49:23,896 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:23,896 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:23,896 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:23,896 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:23,896 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:23,896 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:25,032 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:25,032 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:25,032 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:25,032 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:25,032 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:25,032 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:25,061 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 59 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:25,061 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 59 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:25,061 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 59 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:25,061 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 59 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:25,061 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 59 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:25,061 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 59 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:25,061 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 60 -  Taking Screenshot for Fail
+2024-12-11 10:49:25,061 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 60 -  Taking Screenshot for Fail
+2024-12-11 10:49:25,061 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 60 -  Taking Screenshot for Fail
+2024-12-11 10:49:25,061 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 60 -  Taking Screenshot for Fail
+2024-12-11 10:49:25,061 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 60 -  Taking Screenshot for Fail
+2024-12-11 10:49:25,061 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 60 -  Taking Screenshot for Fail
+2024-12-11 10:49:25,793 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 4 in excel
+2024-12-11 10:49:25,793 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 4 in excel
+2024-12-11 10:49:25,793 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 4 in excel
+2024-12-11 10:49:25,793 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 4 in excel
+2024-12-11 10:49:25,793 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 4 in excel
+2024-12-11 10:49:25,793 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 4 in excel
+2024-12-11 10:49:25,827 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:25,827 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:25,827 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:25,827 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:25,827 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:25,827 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:25,951 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@1231
+2024-12-11 10:49:25,951 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@1231
+2024-12-11 10:49:25,951 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@1231
+2024-12-11 10:49:25,951 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@1231
+2024-12-11 10:49:25,951 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@1231
+2024-12-11 10:49:25,951 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@1231
+2024-12-11 10:49:26,096 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:26,096 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:26,096 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:26,096 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:26,096 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:26,096 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:27,292 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:27,292 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:27,292 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:27,292 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:27,292 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:27,292 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:27,327 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 59 -  User 'Credencetest@test.com' is not logged in and actual result is : login_fail
+2024-12-11 10:49:27,327 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 59 -  User 'Credencetest@test.com' is not logged in and actual result is : login_fail
+2024-12-11 10:49:27,327 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 59 -  User 'Credencetest@test.com' is not logged in and actual result is : login_fail
+2024-12-11 10:49:27,327 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 59 -  User 'Credencetest@test.com' is not logged in and actual result is : login_fail
+2024-12-11 10:49:27,327 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 59 -  User 'Credencetest@test.com' is not logged in and actual result is : login_fail
+2024-12-11 10:49:27,327 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 59 -  User 'Credencetest@test.com' is not logged in and actual result is : login_fail
+2024-12-11 10:49:27,328 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 60 -  Taking Screenshot for Fail
+2024-12-11 10:49:27,328 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 60 -  Taking Screenshot for Fail
+2024-12-11 10:49:27,328 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 60 -  Taking Screenshot for Fail
+2024-12-11 10:49:27,328 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 60 -  Taking Screenshot for Fail
+2024-12-11 10:49:27,328 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 60 -  Taking Screenshot for Fail
+2024-12-11 10:49:27,328 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 60 -  Taking Screenshot for Fail
+2024-12-11 10:49:28,026 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 5 in excel
+2024-12-11 10:49:28,026 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 5 in excel
+2024-12-11 10:49:28,026 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 5 in excel
+2024-12-11 10:49:28,026 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 5 in excel
+2024-12-11 10:49:28,026 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 5 in excel
+2024-12-11 10:49:28,026 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 5 in excel
+2024-12-11 10:49:28,061 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:28,061 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:28,061 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:28,061 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:28,061 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:28,061 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:28,236 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@1231
+2024-12-11 10:49:28,236 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@1231
+2024-12-11 10:49:28,236 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@1231
+2024-12-11 10:49:28,236 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@1231
+2024-12-11 10:49:28,236 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@1231
+2024-12-11 10:49:28,236 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@1231
+2024-12-11 10:49:28,304 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:28,304 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:28,304 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:28,304 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:28,304 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:28,304 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:29,282 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:29,282 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:29,282 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:29,282 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:29,282 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:29,282 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:29,310 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 59 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:29,310 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 59 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:29,310 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 59 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:29,310 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 59 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:29,310 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 59 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:29,310 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 59 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:29,311 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 60 -  Taking Screenshot for Fail
+2024-12-11 10:49:29,311 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 60 -  Taking Screenshot for Fail
+2024-12-11 10:49:29,311 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 60 -  Taking Screenshot for Fail
+2024-12-11 10:49:29,311 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 60 -  Taking Screenshot for Fail
+2024-12-11 10:49:29,311 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 60 -  Taking Screenshot for Fail
+2024-12-11 10:49:29,311 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 60 -  Taking Screenshot for Fail
+2024-12-11 10:49:30,124 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 6 in excel
+2024-12-11 10:49:30,124 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 6 in excel
+2024-12-11 10:49:30,124 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 6 in excel
+2024-12-11 10:49:30,124 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 6 in excel
+2024-12-11 10:49:30,124 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 6 in excel
+2024-12-11 10:49:30,124 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 6 in excel
+2024-12-11 10:49:30,154 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:30,154 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:30,154 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:30,154 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:30,154 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:30,154 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:30,272 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@123
+2024-12-11 10:49:30,272 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@123
+2024-12-11 10:49:30,272 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@123
+2024-12-11 10:49:30,272 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@123
+2024-12-11 10:49:30,272 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@123
+2024-12-11 10:49:30,272 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@123
+2024-12-11 10:49:30,401 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:30,401 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:30,401 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:30,401 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:30,401 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:30,401 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:32,355 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:32,355 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:32,355 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:32,355 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:32,355 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:32,355 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:33,909 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  User 'Credencetest@test.com' is  logged in and actual result is : login_pass
+2024-12-11 10:49:33,909 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  User 'Credencetest@test.com' is  logged in and actual result is : login_pass
+2024-12-11 10:49:33,909 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  User 'Credencetest@test.com' is  logged in and actual result is : login_pass
+2024-12-11 10:49:33,909 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  User 'Credencetest@test.com' is  logged in and actual result is : login_pass
+2024-12-11 10:49:33,909 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  User 'Credencetest@test.com' is  logged in and actual result is : login_pass
+2024-12-11 10:49:33,909 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 54 -  User 'Credencetest@test.com' is  logged in and actual result is : login_pass
+2024-12-11 10:49:33,909 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 55 -  Taking Screenshot for Pass
+2024-12-11 10:49:33,909 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 55 -  Taking Screenshot for Pass
+2024-12-11 10:49:33,909 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 55 -  Taking Screenshot for Pass
+2024-12-11 10:49:33,909 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 55 -  Taking Screenshot for Pass
+2024-12-11 10:49:33,909 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 55 -  Taking Screenshot for Pass
+2024-12-11 10:49:33,909 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 55 -  Taking Screenshot for Pass
+2024-12-11 10:49:34,822 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 7 in excel
+2024-12-11 10:49:34,822 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 7 in excel
+2024-12-11 10:49:34,822 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 7 in excel
+2024-12-11 10:49:34,822 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 7 in excel
+2024-12-11 10:49:34,822 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 7 in excel
+2024-12-11 10:49:34,822 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 40 -  Reading data from row number : 7 in excel
+2024-12-11 10:49:34,868 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:34,868 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:34,868 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:34,868 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:34,868 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:34,868 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 45 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:35,099 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@1231
+2024-12-11 10:49:35,099 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@1231
+2024-12-11 10:49:35,099 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@1231
+2024-12-11 10:49:35,099 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@1231
+2024-12-11 10:49:35,099 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@1231
+2024-12-11 10:49:35,099 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 47 -  Entering password :Credence@1231
+2024-12-11 10:49:35,253 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:35,253 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:35,253 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:35,253 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:35,253 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:35,253 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 49 -  Clicking Login button
+2024-12-11 10:49:36,248 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:36,248 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:36,248 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:36,248 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:36,248 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:36,248 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 51 -  Verify User is logged in or not
+2024-12-11 10:49:36,274 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 59 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:36,274 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 59 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:36,274 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 59 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:36,274 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 59 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:36,274 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 59 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:36,274 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 59 -  User 'Credencetest@test.com1' is not logged in and actual result is : login_fail
+2024-12-11 10:49:36,274 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 60 -  Taking Screenshot for Fail
+2024-12-11 10:49:36,274 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 60 -  Taking Screenshot for Fail
+2024-12-11 10:49:36,274 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 60 -  Taking Screenshot for Fail
+2024-12-11 10:49:36,274 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 60 -  Taking Screenshot for Fail
+2024-12-11 10:49:36,274 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 60 -  Taking Screenshot for Fail
+2024-12-11 10:49:36,274 - INFO - test_CredKart_User_Login_Excel_DDT_004 - 60 -  Taking Screenshot for Fail
+2024-12-11 10:49:42,065 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:42,065 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:42,065 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:42,065 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:42,065 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:42,065 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:42,065 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:42,065 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:42,065 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:42,065 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:42,065 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:42,065 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:44,004 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:44,004 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:44,004 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:44,004 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:44,004 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:44,004 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:44,005 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:44,005 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:44,005 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:44,005 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:44,005 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:44,005 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:44,323 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@123
+2024-12-11 10:49:44,323 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@123
+2024-12-11 10:49:44,323 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@123
+2024-12-11 10:49:44,323 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@123
+2024-12-11 10:49:44,323 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@123
+2024-12-11 10:49:44,323 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@123
+2024-12-11 10:49:44,605 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:44,605 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:44,605 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:44,605 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:44,605 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:44,605 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:47,639 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:49:47,639 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:49:47,639 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:49:47,639 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:49:47,639 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:49:47,639 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:49:49,314 - INFO - test_CredKart_User_Login_params_DDT_005 - 51 -  Taking Screenshot for Pass
+2024-12-11 10:49:49,314 - INFO - test_CredKart_User_Login_params_DDT_005 - 51 -  Taking Screenshot for Pass
+2024-12-11 10:49:49,314 - INFO - test_CredKart_User_Login_params_DDT_005 - 51 -  Taking Screenshot for Pass
+2024-12-11 10:49:49,314 - INFO - test_CredKart_User_Login_params_DDT_005 - 51 -  Taking Screenshot for Pass
+2024-12-11 10:49:49,314 - INFO - test_CredKart_User_Login_params_DDT_005 - 51 -  Taking Screenshot for Pass
+2024-12-11 10:49:49,314 - INFO - test_CredKart_User_Login_params_DDT_005 - 51 -  Taking Screenshot for Pass
+2024-12-11 10:49:49,583 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:49:49,583 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:49:49,583 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:49:49,583 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:49:49,583 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:49:49,583 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:49:49,584 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:49:49,584 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:49:49,584 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:49:49,584 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:49:49,584 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:49:49,584 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:49:49,589 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:49,589 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:49,589 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:49,589 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:49,589 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:49,589 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:49,590 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:49,590 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:49,590 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:49,590 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:49,590 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:49,590 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:50,347 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:50,347 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:50,347 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:50,347 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:50,347 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:50,347 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:50,347 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:50,347 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:50,347 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:50,347 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:50,347 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:50,347 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:50,542 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@123
+2024-12-11 10:49:50,542 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@123
+2024-12-11 10:49:50,542 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@123
+2024-12-11 10:49:50,542 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@123
+2024-12-11 10:49:50,542 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@123
+2024-12-11 10:49:50,542 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@123
+2024-12-11 10:49:50,700 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:50,700 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:50,700 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:50,700 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:50,700 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:50,700 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:51,879 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:49:51,879 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:49:51,879 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:49:51,879 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:49:51,879 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:49:51,879 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:49:51,898 - INFO - test_CredKart_User_Login_params_DDT_005 - 55 -  Taking Screenshot for Fail
+2024-12-11 10:49:51,898 - INFO - test_CredKart_User_Login_params_DDT_005 - 55 -  Taking Screenshot for Fail
+2024-12-11 10:49:51,898 - INFO - test_CredKart_User_Login_params_DDT_005 - 55 -  Taking Screenshot for Fail
+2024-12-11 10:49:51,898 - INFO - test_CredKart_User_Login_params_DDT_005 - 55 -  Taking Screenshot for Fail
+2024-12-11 10:49:51,898 - INFO - test_CredKart_User_Login_params_DDT_005 - 55 -  Taking Screenshot for Fail
+2024-12-11 10:49:51,898 - INFO - test_CredKart_User_Login_params_DDT_005 - 55 -  Taking Screenshot for Fail
+2024-12-11 10:49:52,128 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:49:52,128 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:49:52,128 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:49:52,128 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:49:52,128 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:49:52,128 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:49:52,128 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:49:52,128 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:49:52,128 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:49:52,128 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:49:52,128 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:49:52,128 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:49:52,134 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:52,134 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:52,134 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:52,134 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:52,134 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:52,134 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:52,135 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:52,135 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:52,135 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:52,135 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:52,135 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:52,135 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:52,772 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:52,772 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:52,772 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:52,772 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:52,772 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:52,772 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:52,774 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:52,774 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:52,774 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:52,774 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:52,774 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:52,774 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com
+2024-12-11 10:49:52,968 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@1231
+2024-12-11 10:49:52,968 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@1231
+2024-12-11 10:49:52,968 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@1231
+2024-12-11 10:49:52,968 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@1231
+2024-12-11 10:49:52,968 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@1231
+2024-12-11 10:49:52,968 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@1231
+2024-12-11 10:49:53,172 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:53,172 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:53,172 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:53,172 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:53,172 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:53,172 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:54,634 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:49:54,634 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:49:54,634 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:49:54,634 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:49:54,634 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:49:54,634 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:49:54,662 - INFO - test_CredKart_User_Login_params_DDT_005 - 55 -  Taking Screenshot for Fail
+2024-12-11 10:49:54,662 - INFO - test_CredKart_User_Login_params_DDT_005 - 55 -  Taking Screenshot for Fail
+2024-12-11 10:49:54,662 - INFO - test_CredKart_User_Login_params_DDT_005 - 55 -  Taking Screenshot for Fail
+2024-12-11 10:49:54,662 - INFO - test_CredKart_User_Login_params_DDT_005 - 55 -  Taking Screenshot for Fail
+2024-12-11 10:49:54,662 - INFO - test_CredKart_User_Login_params_DDT_005 - 55 -  Taking Screenshot for Fail
+2024-12-11 10:49:54,662 - INFO - test_CredKart_User_Login_params_DDT_005 - 55 -  Taking Screenshot for Fail
+2024-12-11 10:49:54,853 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:49:54,853 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:49:54,853 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:49:54,853 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:49:54,853 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:49:54,853 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:49:54,854 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:49:54,854 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:49:54,854 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:49:54,854 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:49:54,854 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:49:54,854 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:49:54,858 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:54,858 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:54,858 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:54,858 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:54,858 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:54,858 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:54,859 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:54,859 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:54,859 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:54,859 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:54,859 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:54,859 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:55,438 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:55,438 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:55,438 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:55,438 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:55,438 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:55,438 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:55,438 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:55,438 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:55,438 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:55,438 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:55,438 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:55,438 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:55,643 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@1231
+2024-12-11 10:49:55,643 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@1231
+2024-12-11 10:49:55,643 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@1231
+2024-12-11 10:49:55,643 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@1231
+2024-12-11 10:49:55,643 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@1231
+2024-12-11 10:49:55,643 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@1231
+2024-12-11 10:49:55,791 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:55,791 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:55,791 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:55,791 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:55,791 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:55,791 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:57,661 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:49:57,661 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:49:57,661 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:49:57,661 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:49:57,661 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:49:57,661 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:49:57,696 - INFO - test_CredKart_User_Login_params_DDT_005 - 55 -  Taking Screenshot for Fail
+2024-12-11 10:49:57,696 - INFO - test_CredKart_User_Login_params_DDT_005 - 55 -  Taking Screenshot for Fail
+2024-12-11 10:49:57,696 - INFO - test_CredKart_User_Login_params_DDT_005 - 55 -  Taking Screenshot for Fail
+2024-12-11 10:49:57,696 - INFO - test_CredKart_User_Login_params_DDT_005 - 55 -  Taking Screenshot for Fail
+2024-12-11 10:49:57,696 - INFO - test_CredKart_User_Login_params_DDT_005 - 55 -  Taking Screenshot for Fail
+2024-12-11 10:49:57,696 - INFO - test_CredKart_User_Login_params_DDT_005 - 55 -  Taking Screenshot for Fail
+2024-12-11 10:49:57,872 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:49:57,872 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:49:57,872 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:49:57,872 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:49:57,872 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:49:57,872 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:49:57,873 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:49:57,873 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:49:57,873 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:49:57,873 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:49:57,873 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:49:57,873 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:49:57,878 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:57,878 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:57,878 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:57,878 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:57,878 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:57,878 - INFO - test_CredKart_User_Login_params_DDT_005 - 30 -  Testcase test_CredKart_User_Login_params_DDT_005 is started
+2024-12-11 10:49:57,879 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:57,879 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:57,879 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:57,879 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:57,879 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:57,879 - INFO - test_CredKart_User_Login_params_DDT_005 - 32 -  Opening Browser
+2024-12-11 10:49:58,776 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:58,776 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:58,776 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:58,776 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:58,776 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:58,776 - INFO - test_CredKart_User_Login_params_DDT_005 - 36 -  Going to CredKart URL ->https://automation.credence.in/login
+2024-12-11 10:49:58,777 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:58,777 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:58,777 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:58,777 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:58,777 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:58,777 - INFO - test_CredKart_User_Login_params_DDT_005 - 42 -  Entering email :Credencetest@test.com1
+2024-12-11 10:49:58,962 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@1231
+2024-12-11 10:49:58,962 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@1231
+2024-12-11 10:49:58,962 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@1231
+2024-12-11 10:49:58,962 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@1231
+2024-12-11 10:49:58,962 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@1231
+2024-12-11 10:49:58,962 - INFO - test_CredKart_User_Login_params_DDT_005 - 44 -  Entering password :Credence@1231
+2024-12-11 10:49:59,105 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:59,105 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:59,105 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:59,105 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:59,105 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:49:59,105 - INFO - test_CredKart_User_Login_params_DDT_005 - 46 -  Clicking Login button
+2024-12-11 10:50:00,828 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:50:00,828 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:50:00,828 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:50:00,828 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:50:00,828 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:50:00,828 - INFO - test_CredKart_User_Login_params_DDT_005 - 48 -  Verify User is logged in or not
+2024-12-11 10:50:00,853 - INFO - test_CredKart_User_Login_params_DDT_005 - 55 -  Taking Screenshot for Fail
+2024-12-11 10:50:00,853 - INFO - test_CredKart_User_Login_params_DDT_005 - 55 -  Taking Screenshot for Fail
+2024-12-11 10:50:00,853 - INFO - test_CredKart_User_Login_params_DDT_005 - 55 -  Taking Screenshot for Fail
+2024-12-11 10:50:00,853 - INFO - test_CredKart_User_Login_params_DDT_005 - 55 -  Taking Screenshot for Fail
+2024-12-11 10:50:00,853 - INFO - test_CredKart_User_Login_params_DDT_005 - 55 -  Taking Screenshot for Fail
+2024-12-11 10:50:00,853 - INFO - test_CredKart_User_Login_params_DDT_005 - 55 -  Taking Screenshot for Fail
+2024-12-11 10:50:01,042 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:50:01,042 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:50:01,042 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:50:01,042 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:50:01,042 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:50:01,042 - INFO - test_CredKart_User_Login_params_DDT_005 - 61 -  Testcase test_CredKart_User_Login_params_DDT_005 is Pass
+2024-12-11 10:50:01,043 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:50:01,043 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:50:01,043 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:50:01,043 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:50:01,043 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
+2024-12-11 10:50:01,043 - INFO - test_CredKart_User_Login_params_DDT_005 - 62 -  Testcase test_CredKart_User_Login_params_DDT_005 is Completed
+
